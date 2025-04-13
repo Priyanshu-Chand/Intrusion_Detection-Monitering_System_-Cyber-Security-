@@ -31,3 +31,12 @@ This project is an **Intrusion Detection & Monitoring System (IDMS)** that detec
 ```bash
 git clone https://github.com/Priyanshu-Chand/Intrusion_Detection-Monitering_System_-Cyber-Security-.git
 cd Intrusion_Detection-Monitering_System_-Cyber-Security-
+
+
+### 2. Install Dependencies
+bash
+Copy code
+pip install -r requirements.txt
+
+
+
