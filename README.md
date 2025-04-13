@@ -1,5 +1,12 @@
 # 🚨 Intrusion Detection & Monitoring System (IDMS) - Cyber Security Project
 
+                        ## Live Preview
+
+Click the link below to view the live preview of the UI:
+
+[View Login Page](https://priyanshu-chand.github.io/Intrusion_Detection-Monitering_System_-Cyber-Security-/login.html)
+
+
 This project is an **Intrusion Detection & Monitoring System (IDMS)** that detects, logs, and analyzes malicious activities in a network or system. The goal is to enhance network security and provide actionable insights for threat prevention.
 
 ---
